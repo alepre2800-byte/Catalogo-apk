@@ -11,7 +11,7 @@ import android.webkit.*;
 public class MainActivity extends Activity {
 
     // ⚠️ PEGA AQUÍ TU URL /exec
-    private static final String URL = "https://script.google.com/macros/s/TU_ID/exec";
+    private static final String URL = "https://script.google.com/macros/s/AKfycbyR3ZojNxG35SrILebuAxjCCSpHS740iXVkOmSbTWmBLzSC5hCl12DvseDqXnhiTsPx/exec";
 
     private WebView web;
     private ValueCallback<Uri[]> callback;
