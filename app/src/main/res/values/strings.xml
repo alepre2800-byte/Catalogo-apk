@@ -1,1 +1,3 @@
-res/values/strings.xml
+<resources>
+    <string name="app_name">Catálogo</string>
+</resources>
